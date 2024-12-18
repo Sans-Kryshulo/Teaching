@@ -1,0 +1,14 @@
+C:\Users\dimar\source\repos\C#\Task_11\Task_11\bin\Debug\net8.0\Task_11.exe
+C:\Users\dimar\source\repos\C#\Task_11\Task_11\bin\Debug\net8.0\Task_11.deps.json
+C:\Users\dimar\source\repos\C#\Task_11\Task_11\bin\Debug\net8.0\Task_11.runtimeconfig.json
+C:\Users\dimar\source\repos\C#\Task_11\Task_11\bin\Debug\net8.0\Task_11.dll
+C:\Users\dimar\source\repos\C#\Task_11\Task_11\bin\Debug\net8.0\Task_11.pdb
+C:\Users\dimar\source\repos\C#\Task_11\Task_11\obj\Debug\net8.0\Task_11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimar\source\repos\C#\Task_11\Task_11\obj\Debug\net8.0\Task_11.AssemblyInfoInputs.cache
+C:\Users\dimar\source\repos\C#\Task_11\Task_11\obj\Debug\net8.0\Task_11.AssemblyInfo.cs
+C:\Users\dimar\source\repos\C#\Task_11\Task_11\obj\Debug\net8.0\Task_11.csproj.CoreCompileInputs.cache
+C:\Users\dimar\source\repos\C#\Task_11\Task_11\obj\Debug\net8.0\Task_11.dll
+C:\Users\dimar\source\repos\C#\Task_11\Task_11\obj\Debug\net8.0\refint\Task_11.dll
+C:\Users\dimar\source\repos\C#\Task_11\Task_11\obj\Debug\net8.0\Task_11.pdb
+C:\Users\dimar\source\repos\C#\Task_11\Task_11\obj\Debug\net8.0\Task_11.genruntimeconfig.cache
+C:\Users\dimar\source\repos\C#\Task_11\Task_11\obj\Debug\net8.0\ref\Task_11.dll

@@ -1,0 +1,14 @@
+C:\Users\dimar\source\repos\C#\Task_10\Task_10\bin\Debug\net8.0\Task_10.exe
+C:\Users\dimar\source\repos\C#\Task_10\Task_10\bin\Debug\net8.0\Task_10.deps.json
+C:\Users\dimar\source\repos\C#\Task_10\Task_10\bin\Debug\net8.0\Task_10.runtimeconfig.json
+C:\Users\dimar\source\repos\C#\Task_10\Task_10\bin\Debug\net8.0\Task_10.dll
+C:\Users\dimar\source\repos\C#\Task_10\Task_10\bin\Debug\net8.0\Task_10.pdb
+C:\Users\dimar\source\repos\C#\Task_10\Task_10\obj\Debug\net8.0\Task_10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimar\source\repos\C#\Task_10\Task_10\obj\Debug\net8.0\Task_10.AssemblyInfoInputs.cache
+C:\Users\dimar\source\repos\C#\Task_10\Task_10\obj\Debug\net8.0\Task_10.AssemblyInfo.cs
+C:\Users\dimar\source\repos\C#\Task_10\Task_10\obj\Debug\net8.0\Task_10.csproj.CoreCompileInputs.cache
+C:\Users\dimar\source\repos\C#\Task_10\Task_10\obj\Debug\net8.0\Task_10.dll
+C:\Users\dimar\source\repos\C#\Task_10\Task_10\obj\Debug\net8.0\refint\Task_10.dll
+C:\Users\dimar\source\repos\C#\Task_10\Task_10\obj\Debug\net8.0\Task_10.pdb
+C:\Users\dimar\source\repos\C#\Task_10\Task_10\obj\Debug\net8.0\Task_10.genruntimeconfig.cache
+C:\Users\dimar\source\repos\C#\Task_10\Task_10\obj\Debug\net8.0\ref\Task_10.dll

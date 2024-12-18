@@ -1,0 +1,14 @@
+C:\Users\dimar\source\repos\Task_13\Task_13\obj\Debug\net8.0\Task_13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimar\source\repos\Task_13\Task_13\obj\Debug\net8.0\Task_13.AssemblyInfoInputs.cache
+C:\Users\dimar\source\repos\Task_13\Task_13\obj\Debug\net8.0\Task_13.AssemblyInfo.cs
+C:\Users\dimar\source\repos\Task_13\Task_13\obj\Debug\net8.0\Task_13.csproj.CoreCompileInputs.cache
+C:\Users\dimar\source\repos\Task_13\Task_13\bin\Debug\net8.0\Task_13.exe
+C:\Users\dimar\source\repos\Task_13\Task_13\bin\Debug\net8.0\Task_13.deps.json
+C:\Users\dimar\source\repos\Task_13\Task_13\bin\Debug\net8.0\Task_13.runtimeconfig.json
+C:\Users\dimar\source\repos\Task_13\Task_13\bin\Debug\net8.0\Task_13.dll
+C:\Users\dimar\source\repos\Task_13\Task_13\bin\Debug\net8.0\Task_13.pdb
+C:\Users\dimar\source\repos\Task_13\Task_13\obj\Debug\net8.0\Task_13.dll
+C:\Users\dimar\source\repos\Task_13\Task_13\obj\Debug\net8.0\refint\Task_13.dll
+C:\Users\dimar\source\repos\Task_13\Task_13\obj\Debug\net8.0\Task_13.pdb
+C:\Users\dimar\source\repos\Task_13\Task_13\obj\Debug\net8.0\Task_13.genruntimeconfig.cache
+C:\Users\dimar\source\repos\Task_13\Task_13\obj\Debug\net8.0\ref\Task_13.dll

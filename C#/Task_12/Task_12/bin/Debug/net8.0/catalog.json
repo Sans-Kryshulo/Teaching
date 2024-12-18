@@ -1,0 +1,30 @@
+[
+  {
+    "Type": "LibraryCatalog.Book, Task_12, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "Title": "1984",
+    "Author": "George Orwell",
+    "Genre": "Dystopian",
+    "Pages": 328
+  },
+  {
+    "Type": "LibraryCatalog.Newspaper, Task_12, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "Title": "The Times",
+    "Date": "2024-12-11T10:28:43.4289973\u002B02:00",
+    "Headlines": [
+      "Headline 1",
+      "Headline 2"
+    ]
+  },
+  {
+    "Type": "LibraryCatalog.Almanac, Task_12, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "Title": "World Almanac",
+    "Works": [
+      {
+        "Title": "Moby Dick",
+        "Author": "Herman Melville",
+        "Genre": null,
+        "Pages": 0
+      }
+    ]
+  }
+]

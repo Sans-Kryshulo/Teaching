@@ -1,0 +1,4 @@
+﻿  Task_6.cpp
+C:\Users\dimar\source\repos\Task_1\Task_6\Task_6\Task_6.cpp(349,65): warning C4244: аргумент: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\dimar\source\repos\Task_1\Task_6\Task_6\Task_6.cpp(352,79): warning C4244: аргумент: преобразование "__int64" в "int", возможна потеря данных
+  Task_6.vcxproj -> C:\Users\dimar\source\repos\Task_1\Task_6\x64\Debug\Task_6.exe

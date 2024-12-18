@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dimar\\source\\repos\\C#\\Task_10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D52F2F5-9D47-4072-92E5-85E7CE9559E5}|Task_10\\Task_10.csproj|c:\\users\\dimar\\source\\repos\\c#\\task_10\\task_10\\employeequeries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D52F2F5-9D47-4072-92E5-85E7CE9559E5}|Task_10\\Task_10.csproj|solutionrelative:task_10\\employeequeries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D52F2F5-9D47-4072-92E5-85E7CE9559E5}|Task_10\\Task_10.csproj|c:\\users\\dimar\\source\\repos\\c#\\task_10\\task_10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D52F2F5-9D47-4072-92E5-85E7CE9559E5}|Task_10\\Task_10.csproj|solutionrelative:task_10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D52F2F5-9D47-4072-92E5-85E7CE9559E5}|Task_10\\Task_10.csproj|c:\\users\\dimar\\source\\repos\\c#\\task_10\\task_10\\firm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D52F2F5-9D47-4072-92E5-85E7CE9559E5}|Task_10\\Task_10.csproj|solutionrelative:task_10\\firm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D52F2F5-9D47-4072-92E5-85E7CE9559E5}|Task_10\\Task_10.csproj|c:\\users\\dimar\\source\\repos\\c#\\task_10\\task_10\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D52F2F5-9D47-4072-92E5-85E7CE9559E5}|Task_10\\Task_10.csproj|solutionrelative:task_10\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D52F2F5-9D47-4072-92E5-85E7CE9559E5}|Task_10\\Task_10.csproj|c:\\users\\dimar\\source\\repos\\c#\\task_10\\task_10\\queries.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D52F2F5-9D47-4072-92E5-85E7CE9559E5}|Task_10\\Task_10.csproj|solutionrelative:task_10\\queries.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeQueries.cs",
+              "DocumentMoniker": "C:\\Users\\dimar\\source\\repos\\C#\\Task_10\\Task_10\\EmployeeQueries.cs",
+              "RelativeDocumentMoniker": "Task_10\\EmployeeQueries.cs",
+              "ToolTip": "C:\\Users\\dimar\\source\\repos\\C#\\Task_10\\Task_10\\EmployeeQueries.cs",
+              "RelativeToolTip": "Task_10\\EmployeeQueries.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAQwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T09:39:35.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\dimar\\source\\repos\\C#\\Task_10\\Task_10\\Employee.cs",
+              "RelativeDocumentMoniker": "Task_10\\Employee.cs",
+              "ToolTip": "C:\\Users\\dimar\\source\\repos\\C#\\Task_10\\Task_10\\Employee.cs",
+              "RelativeToolTip": "Task_10\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T09:39:01.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Queries.cs.cs",
+              "DocumentMoniker": "C:\\Users\\dimar\\source\\repos\\C#\\Task_10\\Task_10\\Queries.cs.cs",
+              "RelativeDocumentMoniker": "Task_10\\Queries.cs.cs",
+              "ToolTip": "C:\\Users\\dimar\\source\\repos\\C#\\Task_10\\Task_10\\Queries.cs.cs",
+              "RelativeToolTip": "Task_10\\Queries.cs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T09:16:57.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Firm.cs",
+              "DocumentMoniker": "C:\\Users\\dimar\\source\\repos\\C#\\Task_10\\Task_10\\Firm.cs",
+              "RelativeDocumentMoniker": "Task_10\\Firm.cs",
+              "ToolTip": "C:\\Users\\dimar\\source\\repos\\C#\\Task_10\\Task_10\\Firm.cs",
+              "RelativeToolTip": "Task_10\\Firm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T09:16:41.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dimar\\source\\repos\\C#\\Task_10\\Task_10\\Program.cs",
+              "RelativeDocumentMoniker": "Task_10\\Program.cs",
+              "ToolTip": "C:\\Users\\dimar\\source\\repos\\C#\\Task_10\\Task_10\\Program.cs",
+              "RelativeToolTip": "Task_10\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwE4AAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T09:16:17.093Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

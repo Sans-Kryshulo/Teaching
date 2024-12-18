@@ -1,0 +1,12 @@
+Triangle
+3
+4
+Rectangle
+0
+0
+5
+5
+Circle
+0
+0
+3

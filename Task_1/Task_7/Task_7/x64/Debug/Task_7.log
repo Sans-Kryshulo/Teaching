@@ -1,0 +1,5 @@
+﻿  Task_7.cpp
+C:\Users\dimar\source\repos\Task_1\Task_7\Task_7\Task_7.cpp(85,14): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\dimar\source\repos\Task_1\Task_7\Task_7\Task_7.cpp(98,14): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\dimar\source\repos\Task_1\Task_7\Task_7\Task_7.cpp(111,14): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Task_7.vcxproj -> C:\Users\dimar\source\repos\Task_1\Task_7\x64\Debug\Task_7.exe

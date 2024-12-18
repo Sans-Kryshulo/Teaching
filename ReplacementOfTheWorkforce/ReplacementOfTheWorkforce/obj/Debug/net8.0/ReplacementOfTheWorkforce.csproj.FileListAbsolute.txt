@@ -1,0 +1,14 @@
+C:\Users\dimar\source\repos\ReplacementOfTheWorkforce\ReplacementOfTheWorkforce\bin\Debug\net8.0\ReplacementOfTheWorkforce.exe
+C:\Users\dimar\source\repos\ReplacementOfTheWorkforce\ReplacementOfTheWorkforce\bin\Debug\net8.0\ReplacementOfTheWorkforce.deps.json
+C:\Users\dimar\source\repos\ReplacementOfTheWorkforce\ReplacementOfTheWorkforce\bin\Debug\net8.0\ReplacementOfTheWorkforce.runtimeconfig.json
+C:\Users\dimar\source\repos\ReplacementOfTheWorkforce\ReplacementOfTheWorkforce\bin\Debug\net8.0\ReplacementOfTheWorkforce.dll
+C:\Users\dimar\source\repos\ReplacementOfTheWorkforce\ReplacementOfTheWorkforce\bin\Debug\net8.0\ReplacementOfTheWorkforce.pdb
+C:\Users\dimar\source\repos\ReplacementOfTheWorkforce\ReplacementOfTheWorkforce\obj\Debug\net8.0\ReplacementOfTheWorkforce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimar\source\repos\ReplacementOfTheWorkforce\ReplacementOfTheWorkforce\obj\Debug\net8.0\ReplacementOfTheWorkforce.AssemblyInfoInputs.cache
+C:\Users\dimar\source\repos\ReplacementOfTheWorkforce\ReplacementOfTheWorkforce\obj\Debug\net8.0\ReplacementOfTheWorkforce.AssemblyInfo.cs
+C:\Users\dimar\source\repos\ReplacementOfTheWorkforce\ReplacementOfTheWorkforce\obj\Debug\net8.0\ReplacementOfTheWorkforce.csproj.CoreCompileInputs.cache
+C:\Users\dimar\source\repos\ReplacementOfTheWorkforce\ReplacementOfTheWorkforce\obj\Debug\net8.0\ReplacementOfTheWorkforce.dll
+C:\Users\dimar\source\repos\ReplacementOfTheWorkforce\ReplacementOfTheWorkforce\obj\Debug\net8.0\refint\ReplacementOfTheWorkforce.dll
+C:\Users\dimar\source\repos\ReplacementOfTheWorkforce\ReplacementOfTheWorkforce\obj\Debug\net8.0\ReplacementOfTheWorkforce.pdb
+C:\Users\dimar\source\repos\ReplacementOfTheWorkforce\ReplacementOfTheWorkforce\obj\Debug\net8.0\ReplacementOfTheWorkforce.genruntimeconfig.cache
+C:\Users\dimar\source\repos\ReplacementOfTheWorkforce\ReplacementOfTheWorkforce\obj\Debug\net8.0\ref\ReplacementOfTheWorkforce.dll

@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dimar\\source\\repos\\C#\\Task_12\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{991653DF-C212-4CC7-96F2-A531B7683CBC}|Task_12\\Task_12.csproj|c:\\users\\dimar\\source\\repos\\c#\\task_12\\task_12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{991653DF-C212-4CC7-96F2-A531B7683CBC}|Task_12\\Task_12.csproj|solutionrelative:task_12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{991653DF-C212-4CC7-96F2-A531B7683CBC}|Task_12\\Task_12.csproj|c:\\users\\dimar\\source\\repos\\c#\\task_12\\task_12\\newspaper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{991653DF-C212-4CC7-96F2-A531B7683CBC}|Task_12\\Task_12.csproj|solutionrelative:task_12\\newspaper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{991653DF-C212-4CC7-96F2-A531B7683CBC}|Task_12\\Task_12.csproj|c:\\users\\dimar\\source\\repos\\c#\\task_12\\task_12\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{991653DF-C212-4CC7-96F2-A531B7683CBC}|Task_12\\Task_12.csproj|solutionrelative:task_12\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{991653DF-C212-4CC7-96F2-A531B7683CBC}|Task_12\\Task_12.csproj|c:\\users\\dimar\\source\\repos\\c#\\task_12\\task_12\\iitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{991653DF-C212-4CC7-96F2-A531B7683CBC}|Task_12\\Task_12.csproj|solutionrelative:task_12\\iitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{991653DF-C212-4CC7-96F2-A531B7683CBC}|Task_12\\Task_12.csproj|c:\\users\\dimar\\source\\repos\\c#\\task_12\\task_12\\librarycatalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{991653DF-C212-4CC7-96F2-A531B7683CBC}|Task_12\\Task_12.csproj|solutionrelative:task_12\\librarycatalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{991653DF-C212-4CC7-96F2-A531B7683CBC}|Task_12\\Task_12.csproj|c:\\users\\dimar\\source\\repos\\c#\\task_12\\task_12\\almanac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{991653DF-C212-4CC7-96F2-A531B7683CBC}|Task_12\\Task_12.csproj|solutionrelative:task_12\\almanac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Newspaper.cs",
+              "DocumentMoniker": "C:\\Users\\dimar\\source\\repos\\C#\\Task_12\\Task_12\\Newspaper.cs",
+              "RelativeDocumentMoniker": "Task_12\\Newspaper.cs",
+              "ToolTip": "C:\\Users\\dimar\\source\\repos\\C#\\Task_12\\Task_12\\Newspaper.cs",
+              "RelativeToolTip": "Task_12\\Newspaper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T08:20:30.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\dimar\\source\\repos\\C#\\Task_12\\Task_12\\Book.cs",
+              "RelativeDocumentMoniker": "Task_12\\Book.cs",
+              "ToolTip": "C:\\Users\\dimar\\source\\repos\\C#\\Task_12\\Task_12\\Book.cs",
+              "RelativeToolTip": "Task_12\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T08:20:17.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IItem.cs",
+              "DocumentMoniker": "C:\\Users\\dimar\\source\\repos\\C#\\Task_12\\Task_12\\IItem.cs",
+              "RelativeDocumentMoniker": "Task_12\\IItem.cs",
+              "ToolTip": "C:\\Users\\dimar\\source\\repos\\C#\\Task_12\\Task_12\\IItem.cs",
+              "RelativeToolTip": "Task_12\\IItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T08:19:51.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dimar\\source\\repos\\C#\\Task_12\\Task_12\\Program.cs",
+              "RelativeDocumentMoniker": "Task_12\\Program.cs",
+              "ToolTip": "C:\\Users\\dimar\\source\\repos\\C#\\Task_12\\Task_12\\Program.cs",
+              "RelativeToolTip": "Task_12\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T08:18:51.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LibraryCatalog.cs",
+              "DocumentMoniker": "C:\\Users\\dimar\\source\\repos\\C#\\Task_12\\Task_12\\LibraryCatalog.cs",
+              "RelativeDocumentMoniker": "Task_12\\LibraryCatalog.cs",
+              "ToolTip": "C:\\Users\\dimar\\source\\repos\\C#\\Task_12\\Task_12\\LibraryCatalog.cs",
+              "RelativeToolTip": "Task_12\\LibraryCatalog.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAAAHIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T08:20:49.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Almanac.cs",
+              "DocumentMoniker": "C:\\Users\\dimar\\source\\repos\\C#\\Task_12\\Task_12\\Almanac.cs",
+              "RelativeDocumentMoniker": "Task_12\\Almanac.cs",
+              "ToolTip": "C:\\Users\\dimar\\source\\repos\\C#\\Task_12\\Task_12\\Almanac.cs",
+              "RelativeToolTip": "Task_12\\Almanac.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T08:20:41.067Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

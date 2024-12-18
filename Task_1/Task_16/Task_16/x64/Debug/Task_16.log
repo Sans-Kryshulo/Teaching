@@ -1,0 +1,12 @@
+﻿  Task_16.cpp
+C:\Users\dimar\source\repos\Task_1\Task_16\Task_16\Task_16.cpp(67,102): warning C4244: аргумент: преобразование "_Rep" в "int", возможна потеря данных
+          with
+          [
+              _Rep=std::chrono::system_clock::rep
+          ]
+C:\Users\dimar\source\repos\Task_1\Task_16\Task_16\Task_16.cpp(92,102): warning C4244: аргумент: преобразование "_Rep" в "int", возможна потеря данных
+          with
+          [
+              _Rep=std::chrono::system_clock::rep
+          ]
+  Task_16.vcxproj -> C:\Users\dimar\source\repos\Task_1\Task_16\x64\Debug\Task_16.exe

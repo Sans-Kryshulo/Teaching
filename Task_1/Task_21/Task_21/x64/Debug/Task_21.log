@@ -1,0 +1,47 @@
+﻿  Task_21.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\algorithm(8083,45): error C2676: бинарный "-": "const std::_List_unchecked_iterator<std::_List_val<std::_List_simple_types<_Ty>>>" не определяет этот оператор или преобразование к типу приемлемо к встроенному оператору
+          with
+          [
+              _Ty=int
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\xutility(4237,30): message : может быть "unknown-type std::operator -(const std::move_iterator<_Iter> &,const std::move_iterator<_Iter2> &) noexcept(<expr>)"
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\algorithm(8083,38): message : 'unknown-type std::operator -(const std::move_iterator<_Iter> &,const std::move_iterator<_Iter2> &) noexcept(<expr>)': не удалось вывести аргумент шаблон для 'const std::move_iterator<_Iter> &' из 'const std::_List_unchecked_iterator<std::_List_val<std::_List_simple_types<_Ty>>>'
+          with
+          [
+              _Ty=int
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\xutility(1563,5): message : или       "unknown-type std::operator -(const std::reverse_iterator<_BidIt> &,const std::reverse_iterator<_BidIt2> &) noexcept(<expr>)"
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\algorithm(8083,38): message : 'unknown-type std::operator -(const std::reverse_iterator<_BidIt> &,const std::reverse_iterator<_BidIt2> &) noexcept(<expr>)': не удалось вывести аргумент шаблон для 'const std::reverse_iterator<_BidIt> &' из 'const std::_List_unchecked_iterator<std::_List_val<std::_List_simple_types<_Ty>>>'
+          with
+          [
+              _Ty=int
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\xutility(1563,5): message : или       "unknown-type std::operator -(const std::reverse_iterator<_BidIt> &,const std::reverse_iterator<_BidIt2> &) noexcept(<expr>)"
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\algorithm(8083,38): message : 'unknown-type std::operator -(const std::reverse_iterator<_BidIt> &,const std::reverse_iterator<_BidIt2> &) noexcept(<expr>)': не удалось вывести аргумент шаблон для 'const std::reverse_iterator<_BidIt> &' из 'const std::_List_unchecked_iterator<std::_List_val<std::_List_simple_types<_Ty>>>'
+          with
+          [
+              _Ty=int
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\xutility(4237,30): message : или       "unknown-type std::operator -(const std::move_iterator<_Iter> &,const std::move_iterator<_Iter2> &) noexcept(<expr>)"
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\algorithm(8083,38): message : 'unknown-type std::operator -(const std::move_iterator<_Iter> &,const std::move_iterator<_Iter2> &) noexcept(<expr>)': не удалось вывести аргумент шаблон для 'const std::move_iterator<_Iter> &' из 'const std::_List_unchecked_iterator<std::_List_val<std::_List_simple_types<_Ty>>>'
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\dimar\source\repos\Task_1\Task_21\Task_21\FunctorsBetter.h(29,14): message : выполняется компиляция ссылки на экземпляр шаблон функции "void std::sort<std::_List_iterator<std::_List_val<std::_List_simple_types<_Ty>>>,std::greater<_Ty>>(const _RanIt,const _RanIt,_Pr)"
+          with
+          [
+              _Ty=int,
+              _RanIt=std::_List_iterator<std::_List_val<std::_List_simple_types<int>>>,
+              _Pr=std::greater<int>
+          ]
+C:\Users\dimar\source\repos\Task_1\Task_21\Task_21\FunctorsBetter.h(28,10): message : во время компиляции функции-члена класс шаблон "void SortDescendingBetter<std::list<int,std::allocator<int>>>::operator ()(T &) const"
+          with
+          [
+              T=std::list<int,std::allocator<int>>
+          ]
+C:\Users\dimar\source\repos\Task_1\Task_21\Task_21\Task_21.cpp(189,41): message : см. первую ссылку на "SortDescendingBetter<std::list<int,std::allocator<int>>>::operator ()" в "main"
+C:\Users\dimar\source\repos\Task_1\Task_21\Task_21\Task_21.cpp(188,54): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "SortDescendingBetter<std::list<int,std::allocator<int>>>"
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\algorithm(8083,5): error C2672: "_Sort_unchecked": не найдена соответствующая перегруженная функция
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\algorithm(8049,19): message : может быть "void std::_Sort_unchecked(_RanIt,_RanIt,iterator_traits<_Iter>::difference_type,_Pr)"
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\algorithm(8083,5): message : "void std::_Sort_unchecked(_RanIt,_RanIt,iterator_traits<_Iter>::difference_type,_Pr)": ожидаются аргументы 4 — 3 предоставлены

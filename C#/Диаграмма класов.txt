@@ -1,0 +1,44 @@
++--------------------+
+|       IItem        |  <--- Интерфейс
++--------------------+
+| +Title: string     |
+| +DisplayInfo():    |
+|   void             |
++--------------------+
+            ^
+            |
+    +-------+-------+
+    |               |
++--------+     +---------+
+|  Book  |     |Newspaper|
++--------+     +---------+
+|+Author:|     | +Date:  |
+| string |     |  DateTime|
+|+Genre: |     |+Headlines:|
+| string |     |List<string>|
+|+Pages: |     |         |
+|  int   |     |         |
++-----------+------------+
+            ^
+            |
+    +------------------+
+    |      Almanac     |
+    +------------------+
+    |+Works: List<Book>|
+    +------------------+
+
++--------------------------+
+|     LibraryCatalog       |
++--------------------------+
+| +Items: List<IItem>      |
+| +AddItem(item: IItem):   |
+|   void                   |
+| +SearchByTitle(title):   |
+|   IItem                  |
+| +SearchByAuthor(author): |
+|   List<Book>             |
+| +SaveToFile(fileName):   |
+|   void                   |
+| +LoadFromFile(fileName): |
+|   void                   |
++--------------------------+

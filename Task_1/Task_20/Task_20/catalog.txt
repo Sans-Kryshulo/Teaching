@@ -1,0 +1,16 @@
+Book
+Author1
+Book1
+Genre1
+100
+Newspaper
+Newspaper1
+2023-05-30
+2
+Headline1
+Headline2
+Almanac
+Almanac1
+2
+Work1
+Work2

@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dimar\\source\\repos\\C#\\Task_9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{08917365-55EA-482B-B94F-A2A5242CCFA8}|Task_9\\Task_9.csproj|c:\\users\\dimar\\source\\repos\\c#\\task_9\\task_9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08917365-55EA-482B-B94F-A2A5242CCFA8}|Task_9\\Task_9.csproj|solutionrelative:task_9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08917365-55EA-482B-B94F-A2A5242CCFA8}|Task_9\\Task_9.csproj|c:\\users\\dimar\\source\\repos\\c#\\task_9\\task_9\\cafequeuemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08917365-55EA-482B-B94F-A2A5242CCFA8}|Task_9\\Task_9.csproj|solutionrelative:task_9\\cafequeuemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08917365-55EA-482B-B94F-A2A5242CCFA8}|Task_9\\Task_9.csproj|c:\\users\\dimar\\source\\repos\\c#\\task_9\\task_9\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08917365-55EA-482B-B94F-A2A5242CCFA8}|Task_9\\Task_9.csproj|solutionrelative:task_9\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08917365-55EA-482B-B94F-A2A5242CCFA8}|Task_9\\Task_9.csproj|c:\\users\\dimar\\source\\repos\\c#\\task_9\\task_9\\dictionarymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08917365-55EA-482B-B94F-A2A5242CCFA8}|Task_9\\Task_9.csproj|solutionrelative:task_9\\dictionarymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08917365-55EA-482B-B94F-A2A5242CCFA8}|Task_9\\Task_9.csproj|c:\\users\\dimar\\source\\repos\\c#\\task_9\\task_9\\employeemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08917365-55EA-482B-B94F-A2A5242CCFA8}|Task_9\\Task_9.csproj|solutionrelative:task_9\\employeemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CafeQueueManager.cs",
+              "DocumentMoniker": "C:\\Users\\dimar\\source\\repos\\C#\\Task_9\\Task_9\\CafeQueueManager.cs",
+              "RelativeDocumentMoniker": "Task_9\\CafeQueueManager.cs",
+              "ToolTip": "C:\\Users\\dimar\\source\\repos\\C#\\Task_9\\Task_9\\CafeQueueManager.cs",
+              "RelativeToolTip": "Task_9\\CafeQueueManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T09:04:10.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\dimar\\source\\repos\\C#\\Task_9\\Task_9\\Customer.cs",
+              "RelativeDocumentMoniker": "Task_9\\Customer.cs",
+              "ToolTip": "C:\\Users\\dimar\\source\\repos\\C#\\Task_9\\Task_9\\Customer.cs",
+              "RelativeToolTip": "Task_9\\Customer.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAkwBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T09:03:50.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DictionaryManager.cs",
+              "DocumentMoniker": "C:\\Users\\dimar\\source\\repos\\C#\\Task_9\\Task_9\\DictionaryManager.cs",
+              "RelativeDocumentMoniker": "Task_9\\DictionaryManager.cs",
+              "ToolTip": "C:\\Users\\dimar\\source\\repos\\C#\\Task_9\\Task_9\\DictionaryManager.cs",
+              "RelativeToolTip": "Task_9\\DictionaryManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T08:57:32.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dimar\\source\\repos\\C#\\Task_9\\Task_9\\Program.cs",
+              "RelativeDocumentMoniker": "Task_9\\Program.cs",
+              "ToolTip": "C:\\Users\\dimar\\source\\repos\\C#\\Task_9\\Task_9\\Program.cs",
+              "RelativeToolTip": "Task_9\\Program.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAQwI0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T08:46:17.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeManager.cs",
+              "DocumentMoniker": "C:\\Users\\dimar\\source\\repos\\C#\\Task_9\\Task_9\\EmployeeManager.cs",
+              "RelativeDocumentMoniker": "Task_9\\EmployeeManager.cs",
+              "ToolTip": "C:\\Users\\dimar\\source\\repos\\C#\\Task_9\\Task_9\\EmployeeManager.cs",
+              "RelativeToolTip": "Task_9\\EmployeeManager.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAkwDUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T08:52:22.77Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
