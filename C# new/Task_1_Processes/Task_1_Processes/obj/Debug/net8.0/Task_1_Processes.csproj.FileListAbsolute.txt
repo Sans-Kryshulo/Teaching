@@ -1,0 +1,15 @@
+C:\Users\dimar\source\repos\Teaching\C# new\Task_1_Processes\Task_1_Processes\bin\Debug\net8.0\Task_1_Processes.exe
+C:\Users\dimar\source\repos\Teaching\C# new\Task_1_Processes\Task_1_Processes\bin\Debug\net8.0\Task_1_Processes.deps.json
+C:\Users\dimar\source\repos\Teaching\C# new\Task_1_Processes\Task_1_Processes\bin\Debug\net8.0\Task_1_Processes.runtimeconfig.json
+C:\Users\dimar\source\repos\Teaching\C# new\Task_1_Processes\Task_1_Processes\bin\Debug\net8.0\Task_1_Processes.dll
+C:\Users\dimar\source\repos\Teaching\C# new\Task_1_Processes\Task_1_Processes\bin\Debug\net8.0\Task_1_Processes.pdb
+C:\Users\dimar\source\repos\Teaching\C# new\Task_1_Processes\Task_1_Processes\obj\Debug\net8.0\Task_1_Processes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimar\source\repos\Teaching\C# new\Task_1_Processes\Task_1_Processes\obj\Debug\net8.0\Task_1_Processes.AssemblyInfoInputs.cache
+C:\Users\dimar\source\repos\Teaching\C# new\Task_1_Processes\Task_1_Processes\obj\Debug\net8.0\Task_1_Processes.AssemblyInfo.cs
+C:\Users\dimar\source\repos\Teaching\C# new\Task_1_Processes\Task_1_Processes\obj\Debug\net8.0\Task_1_Processes.csproj.CoreCompileInputs.cache
+C:\Users\dimar\source\repos\Teaching\C# new\Task_1_Processes\Task_1_Processes\obj\Debug\net8.0\Task_1_Processes.sourcelink.json
+C:\Users\dimar\source\repos\Teaching\C# new\Task_1_Processes\Task_1_Processes\obj\Debug\net8.0\Task_1_Processes.dll
+C:\Users\dimar\source\repos\Teaching\C# new\Task_1_Processes\Task_1_Processes\obj\Debug\net8.0\refint\Task_1_Processes.dll
+C:\Users\dimar\source\repos\Teaching\C# new\Task_1_Processes\Task_1_Processes\obj\Debug\net8.0\Task_1_Processes.pdb
+C:\Users\dimar\source\repos\Teaching\C# new\Task_1_Processes\Task_1_Processes\obj\Debug\net8.0\Task_1_Processes.genruntimeconfig.cache
+C:\Users\dimar\source\repos\Teaching\C# new\Task_1_Processes\Task_1_Processes\obj\Debug\net8.0\ref\Task_1_Processes.dll

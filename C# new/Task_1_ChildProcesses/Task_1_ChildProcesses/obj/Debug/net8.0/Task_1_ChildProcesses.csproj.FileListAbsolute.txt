@@ -1,0 +1,15 @@
+C:\Users\dimar\source\repos\Teaching\C# new\Task_1_ChildProcesses\Task_1_ChildProcesses\bin\Debug\net8.0\Task_1_ChildProcesses.exe
+C:\Users\dimar\source\repos\Teaching\C# new\Task_1_ChildProcesses\Task_1_ChildProcesses\bin\Debug\net8.0\Task_1_ChildProcesses.deps.json
+C:\Users\dimar\source\repos\Teaching\C# new\Task_1_ChildProcesses\Task_1_ChildProcesses\bin\Debug\net8.0\Task_1_ChildProcesses.runtimeconfig.json
+C:\Users\dimar\source\repos\Teaching\C# new\Task_1_ChildProcesses\Task_1_ChildProcesses\bin\Debug\net8.0\Task_1_ChildProcesses.dll
+C:\Users\dimar\source\repos\Teaching\C# new\Task_1_ChildProcesses\Task_1_ChildProcesses\bin\Debug\net8.0\Task_1_ChildProcesses.pdb
+C:\Users\dimar\source\repos\Teaching\C# new\Task_1_ChildProcesses\Task_1_ChildProcesses\obj\Debug\net8.0\Task_1_ChildProcesses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimar\source\repos\Teaching\C# new\Task_1_ChildProcesses\Task_1_ChildProcesses\obj\Debug\net8.0\Task_1_ChildProcesses.AssemblyInfoInputs.cache
+C:\Users\dimar\source\repos\Teaching\C# new\Task_1_ChildProcesses\Task_1_ChildProcesses\obj\Debug\net8.0\Task_1_ChildProcesses.AssemblyInfo.cs
+C:\Users\dimar\source\repos\Teaching\C# new\Task_1_ChildProcesses\Task_1_ChildProcesses\obj\Debug\net8.0\Task_1_ChildProcesses.csproj.CoreCompileInputs.cache
+C:\Users\dimar\source\repos\Teaching\C# new\Task_1_ChildProcesses\Task_1_ChildProcesses\obj\Debug\net8.0\Task_1_ChildProcesses.sourcelink.json
+C:\Users\dimar\source\repos\Teaching\C# new\Task_1_ChildProcesses\Task_1_ChildProcesses\obj\Debug\net8.0\Task_1_ChildProcesses.dll
+C:\Users\dimar\source\repos\Teaching\C# new\Task_1_ChildProcesses\Task_1_ChildProcesses\obj\Debug\net8.0\refint\Task_1_ChildProcesses.dll
+C:\Users\dimar\source\repos\Teaching\C# new\Task_1_ChildProcesses\Task_1_ChildProcesses\obj\Debug\net8.0\Task_1_ChildProcesses.pdb
+C:\Users\dimar\source\repos\Teaching\C# new\Task_1_ChildProcesses\Task_1_ChildProcesses\obj\Debug\net8.0\Task_1_ChildProcesses.genruntimeconfig.cache
+C:\Users\dimar\source\repos\Teaching\C# new\Task_1_ChildProcesses\Task_1_ChildProcesses\obj\Debug\net8.0\ref\Task_1_ChildProcesses.dll

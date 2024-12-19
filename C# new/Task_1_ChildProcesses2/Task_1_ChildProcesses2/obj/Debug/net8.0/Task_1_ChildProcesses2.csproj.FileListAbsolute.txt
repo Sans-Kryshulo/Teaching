@@ -1,0 +1,15 @@
+C:\Users\dimar\source\repos\Teaching\C# new\Task_1_ChildProcesses2\Task_1_ChildProcesses2\bin\Debug\net8.0\Task_1_ChildProcesses2.exe
+C:\Users\dimar\source\repos\Teaching\C# new\Task_1_ChildProcesses2\Task_1_ChildProcesses2\bin\Debug\net8.0\Task_1_ChildProcesses2.deps.json
+C:\Users\dimar\source\repos\Teaching\C# new\Task_1_ChildProcesses2\Task_1_ChildProcesses2\bin\Debug\net8.0\Task_1_ChildProcesses2.runtimeconfig.json
+C:\Users\dimar\source\repos\Teaching\C# new\Task_1_ChildProcesses2\Task_1_ChildProcesses2\bin\Debug\net8.0\Task_1_ChildProcesses2.dll
+C:\Users\dimar\source\repos\Teaching\C# new\Task_1_ChildProcesses2\Task_1_ChildProcesses2\bin\Debug\net8.0\Task_1_ChildProcesses2.pdb
+C:\Users\dimar\source\repos\Teaching\C# new\Task_1_ChildProcesses2\Task_1_ChildProcesses2\obj\Debug\net8.0\Task_1_ChildProcesses2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimar\source\repos\Teaching\C# new\Task_1_ChildProcesses2\Task_1_ChildProcesses2\obj\Debug\net8.0\Task_1_ChildProcesses2.AssemblyInfoInputs.cache
+C:\Users\dimar\source\repos\Teaching\C# new\Task_1_ChildProcesses2\Task_1_ChildProcesses2\obj\Debug\net8.0\Task_1_ChildProcesses2.AssemblyInfo.cs
+C:\Users\dimar\source\repos\Teaching\C# new\Task_1_ChildProcesses2\Task_1_ChildProcesses2\obj\Debug\net8.0\Task_1_ChildProcesses2.csproj.CoreCompileInputs.cache
+C:\Users\dimar\source\repos\Teaching\C# new\Task_1_ChildProcesses2\Task_1_ChildProcesses2\obj\Debug\net8.0\Task_1_ChildProcesses2.sourcelink.json
+C:\Users\dimar\source\repos\Teaching\C# new\Task_1_ChildProcesses2\Task_1_ChildProcesses2\obj\Debug\net8.0\Task_1_ChildProcesses2.dll
+C:\Users\dimar\source\repos\Teaching\C# new\Task_1_ChildProcesses2\Task_1_ChildProcesses2\obj\Debug\net8.0\refint\Task_1_ChildProcesses2.dll
+C:\Users\dimar\source\repos\Teaching\C# new\Task_1_ChildProcesses2\Task_1_ChildProcesses2\obj\Debug\net8.0\Task_1_ChildProcesses2.pdb
+C:\Users\dimar\source\repos\Teaching\C# new\Task_1_ChildProcesses2\Task_1_ChildProcesses2\obj\Debug\net8.0\Task_1_ChildProcesses2.genruntimeconfig.cache
+C:\Users\dimar\source\repos\Teaching\C# new\Task_1_ChildProcesses2\Task_1_ChildProcesses2\obj\Debug\net8.0\ref\Task_1_ChildProcesses2.dll
