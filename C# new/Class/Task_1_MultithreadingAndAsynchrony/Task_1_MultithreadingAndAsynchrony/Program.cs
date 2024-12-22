@@ -141,14 +141,14 @@ class Program
                             string filePath5 = "results.txt";
                             using (StreamWriter writer5 = new StreamWriter(filePath5))
                             {
-                                writer5.WriteLine("Набір чисел:");
+                                writer5.WriteLine("Set of numbers:");
                                 writer5.WriteLine(string.Join(", ", numbers5));
                                 writer5.WriteLine();
-                                writer5.WriteLine($"Максимум: {max5}");
-                                writer5.WriteLine($"Мінімум: {min5}");
-                                writer5.WriteLine($"Середнє арифметичне: {average5}");
+                                writer5.WriteLine($"Maximum:: {max5}");
+                                writer5.WriteLine($"Minimum: {min5}");
+                                writer5.WriteLine($"Arithmetic average: {average5}");
                             }
-                            Console.WriteLine("Результати записано у файл: results.txt");
+                            Console.WriteLine("The results are saved in a file: results.txt");
                         });
 
                         maxThread5.Start();
@@ -159,7 +159,7 @@ class Program
                         averageThread5.Join();
                         fileWriterThread5.Start();
                         fileWriterThread5.Join();
-                        Console.WriteLine("Основний потік завершено.");
+                        Console.WriteLine("The main thread is complete.");
                         ////////////////////
                         continueBank = true;
                         break;

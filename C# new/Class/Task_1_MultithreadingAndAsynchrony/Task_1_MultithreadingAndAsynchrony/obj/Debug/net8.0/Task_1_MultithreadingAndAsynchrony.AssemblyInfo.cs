@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Task_1_MultithreadingAndAsynchrony")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+169631aa2d5b342bc03beef71f676faecbf03f5d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+65cf540b681a48dfd69d0e4857679f0cd5349fde")]
 [assembly: System.Reflection.AssemblyProductAttribute("Task_1_MultithreadingAndAsynchrony")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Task_1_MultithreadingAndAsynchrony")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
