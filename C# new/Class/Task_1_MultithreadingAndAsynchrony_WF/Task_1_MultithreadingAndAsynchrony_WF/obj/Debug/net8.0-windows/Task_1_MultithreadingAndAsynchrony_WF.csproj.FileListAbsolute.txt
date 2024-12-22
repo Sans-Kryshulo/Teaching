@@ -1,0 +1,17 @@
+C:\Users\dimar\source\repos\Teaching\C# new\Class\Task_1_MultithreadingAndAsynchrony_WF\Task_1_MultithreadingAndAsynchrony_WF\bin\Debug\net8.0-windows\Task_1_MultithreadingAndAsynchrony_WF.exe
+C:\Users\dimar\source\repos\Teaching\C# new\Class\Task_1_MultithreadingAndAsynchrony_WF\Task_1_MultithreadingAndAsynchrony_WF\bin\Debug\net8.0-windows\Task_1_MultithreadingAndAsynchrony_WF.deps.json
+C:\Users\dimar\source\repos\Teaching\C# new\Class\Task_1_MultithreadingAndAsynchrony_WF\Task_1_MultithreadingAndAsynchrony_WF\bin\Debug\net8.0-windows\Task_1_MultithreadingAndAsynchrony_WF.runtimeconfig.json
+C:\Users\dimar\source\repos\Teaching\C# new\Class\Task_1_MultithreadingAndAsynchrony_WF\Task_1_MultithreadingAndAsynchrony_WF\bin\Debug\net8.0-windows\Task_1_MultithreadingAndAsynchrony_WF.dll
+C:\Users\dimar\source\repos\Teaching\C# new\Class\Task_1_MultithreadingAndAsynchrony_WF\Task_1_MultithreadingAndAsynchrony_WF\bin\Debug\net8.0-windows\Task_1_MultithreadingAndAsynchrony_WF.pdb
+C:\Users\dimar\source\repos\Teaching\C# new\Class\Task_1_MultithreadingAndAsynchrony_WF\Task_1_MultithreadingAndAsynchrony_WF\obj\Debug\net8.0-windows\Task_1_MultithreadingAndAsynchrony_WF.Form1.resources
+C:\Users\dimar\source\repos\Teaching\C# new\Class\Task_1_MultithreadingAndAsynchrony_WF\Task_1_MultithreadingAndAsynchrony_WF\obj\Debug\net8.0-windows\Task_1_MultithreadingAndAsynchrony_WF.csproj.GenerateResource.cache
+C:\Users\dimar\source\repos\Teaching\C# new\Class\Task_1_MultithreadingAndAsynchrony_WF\Task_1_MultithreadingAndAsynchrony_WF\obj\Debug\net8.0-windows\Task_1_MultithreadingAndAsynchrony_WF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimar\source\repos\Teaching\C# new\Class\Task_1_MultithreadingAndAsynchrony_WF\Task_1_MultithreadingAndAsynchrony_WF\obj\Debug\net8.0-windows\Task_1_MultithreadingAndAsynchrony_WF.AssemblyInfoInputs.cache
+C:\Users\dimar\source\repos\Teaching\C# new\Class\Task_1_MultithreadingAndAsynchrony_WF\Task_1_MultithreadingAndAsynchrony_WF\obj\Debug\net8.0-windows\Task_1_MultithreadingAndAsynchrony_WF.AssemblyInfo.cs
+C:\Users\dimar\source\repos\Teaching\C# new\Class\Task_1_MultithreadingAndAsynchrony_WF\Task_1_MultithreadingAndAsynchrony_WF\obj\Debug\net8.0-windows\Task_1_MultithreadingAndAsynchrony_WF.csproj.CoreCompileInputs.cache
+C:\Users\dimar\source\repos\Teaching\C# new\Class\Task_1_MultithreadingAndAsynchrony_WF\Task_1_MultithreadingAndAsynchrony_WF\obj\Debug\net8.0-windows\Task_1_MultithreadingAndAsynchrony_WF.sourcelink.json
+C:\Users\dimar\source\repos\Teaching\C# new\Class\Task_1_MultithreadingAndAsynchrony_WF\Task_1_MultithreadingAndAsynchrony_WF\obj\Debug\net8.0-windows\Task_1_MultithreadingAndAsynchrony_WF.dll
+C:\Users\dimar\source\repos\Teaching\C# new\Class\Task_1_MultithreadingAndAsynchrony_WF\Task_1_MultithreadingAndAsynchrony_WF\obj\Debug\net8.0-windows\refint\Task_1_MultithreadingAndAsynchrony_WF.dll
+C:\Users\dimar\source\repos\Teaching\C# new\Class\Task_1_MultithreadingAndAsynchrony_WF\Task_1_MultithreadingAndAsynchrony_WF\obj\Debug\net8.0-windows\Task_1_MultithreadingAndAsynchrony_WF.pdb
+C:\Users\dimar\source\repos\Teaching\C# new\Class\Task_1_MultithreadingAndAsynchrony_WF\Task_1_MultithreadingAndAsynchrony_WF\obj\Debug\net8.0-windows\Task_1_MultithreadingAndAsynchrony_WF.genruntimeconfig.cache
+C:\Users\dimar\source\repos\Teaching\C# new\Class\Task_1_MultithreadingAndAsynchrony_WF\Task_1_MultithreadingAndAsynchrony_WF\obj\Debug\net8.0-windows\ref\Task_1_MultithreadingAndAsynchrony_WF.dll

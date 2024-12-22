@@ -1,0 +1,15 @@
+C:\Users\dimar\source\repos\Teaching\C# new\Class\Task_1_MultithreadingAndAsynchrony\Task_1_MultithreadingAndAsynchrony\bin\Debug\net8.0\Task_1_MultithreadingAndAsynchrony.exe
+C:\Users\dimar\source\repos\Teaching\C# new\Class\Task_1_MultithreadingAndAsynchrony\Task_1_MultithreadingAndAsynchrony\bin\Debug\net8.0\Task_1_MultithreadingAndAsynchrony.deps.json
+C:\Users\dimar\source\repos\Teaching\C# new\Class\Task_1_MultithreadingAndAsynchrony\Task_1_MultithreadingAndAsynchrony\bin\Debug\net8.0\Task_1_MultithreadingAndAsynchrony.runtimeconfig.json
+C:\Users\dimar\source\repos\Teaching\C# new\Class\Task_1_MultithreadingAndAsynchrony\Task_1_MultithreadingAndAsynchrony\bin\Debug\net8.0\Task_1_MultithreadingAndAsynchrony.dll
+C:\Users\dimar\source\repos\Teaching\C# new\Class\Task_1_MultithreadingAndAsynchrony\Task_1_MultithreadingAndAsynchrony\bin\Debug\net8.0\Task_1_MultithreadingAndAsynchrony.pdb
+C:\Users\dimar\source\repos\Teaching\C# new\Class\Task_1_MultithreadingAndAsynchrony\Task_1_MultithreadingAndAsynchrony\obj\Debug\net8.0\Task_1_MultithreadingAndAsynchrony.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimar\source\repos\Teaching\C# new\Class\Task_1_MultithreadingAndAsynchrony\Task_1_MultithreadingAndAsynchrony\obj\Debug\net8.0\Task_1_MultithreadingAndAsynchrony.AssemblyInfoInputs.cache
+C:\Users\dimar\source\repos\Teaching\C# new\Class\Task_1_MultithreadingAndAsynchrony\Task_1_MultithreadingAndAsynchrony\obj\Debug\net8.0\Task_1_MultithreadingAndAsynchrony.AssemblyInfo.cs
+C:\Users\dimar\source\repos\Teaching\C# new\Class\Task_1_MultithreadingAndAsynchrony\Task_1_MultithreadingAndAsynchrony\obj\Debug\net8.0\Task_1_MultithreadingAndAsynchrony.csproj.CoreCompileInputs.cache
+C:\Users\dimar\source\repos\Teaching\C# new\Class\Task_1_MultithreadingAndAsynchrony\Task_1_MultithreadingAndAsynchrony\obj\Debug\net8.0\Task_1_MultithreadingAndAsynchrony.sourcelink.json
+C:\Users\dimar\source\repos\Teaching\C# new\Class\Task_1_MultithreadingAndAsynchrony\Task_1_MultithreadingAndAsynchrony\obj\Debug\net8.0\Task_1_MultithreadingAndAsynchrony.dll
+C:\Users\dimar\source\repos\Teaching\C# new\Class\Task_1_MultithreadingAndAsynchrony\Task_1_MultithreadingAndAsynchrony\obj\Debug\net8.0\refint\Task_1_MultithreadingAndAsynchrony.dll
+C:\Users\dimar\source\repos\Teaching\C# new\Class\Task_1_MultithreadingAndAsynchrony\Task_1_MultithreadingAndAsynchrony\obj\Debug\net8.0\Task_1_MultithreadingAndAsynchrony.pdb
+C:\Users\dimar\source\repos\Teaching\C# new\Class\Task_1_MultithreadingAndAsynchrony\Task_1_MultithreadingAndAsynchrony\obj\Debug\net8.0\Task_1_MultithreadingAndAsynchrony.genruntimeconfig.cache
+C:\Users\dimar\source\repos\Teaching\C# new\Class\Task_1_MultithreadingAndAsynchrony\Task_1_MultithreadingAndAsynchrony\obj\Debug\net8.0\ref\Task_1_MultithreadingAndAsynchrony.dll

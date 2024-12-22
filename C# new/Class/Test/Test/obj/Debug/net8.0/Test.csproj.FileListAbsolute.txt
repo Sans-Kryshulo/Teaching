@@ -1,0 +1,15 @@
+C:\Users\dimar\source\repos\Teaching\C# new\Class\Test\Test\bin\Debug\net8.0\Test.exe
+C:\Users\dimar\source\repos\Teaching\C# new\Class\Test\Test\bin\Debug\net8.0\Test.deps.json
+C:\Users\dimar\source\repos\Teaching\C# new\Class\Test\Test\bin\Debug\net8.0\Test.runtimeconfig.json
+C:\Users\dimar\source\repos\Teaching\C# new\Class\Test\Test\bin\Debug\net8.0\Test.dll
+C:\Users\dimar\source\repos\Teaching\C# new\Class\Test\Test\bin\Debug\net8.0\Test.pdb
+C:\Users\dimar\source\repos\Teaching\C# new\Class\Test\Test\obj\Debug\net8.0\Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimar\source\repos\Teaching\C# new\Class\Test\Test\obj\Debug\net8.0\Test.AssemblyInfoInputs.cache
+C:\Users\dimar\source\repos\Teaching\C# new\Class\Test\Test\obj\Debug\net8.0\Test.AssemblyInfo.cs
+C:\Users\dimar\source\repos\Teaching\C# new\Class\Test\Test\obj\Debug\net8.0\Test.csproj.CoreCompileInputs.cache
+C:\Users\dimar\source\repos\Teaching\C# new\Class\Test\Test\obj\Debug\net8.0\Test.sourcelink.json
+C:\Users\dimar\source\repos\Teaching\C# new\Class\Test\Test\obj\Debug\net8.0\Test.dll
+C:\Users\dimar\source\repos\Teaching\C# new\Class\Test\Test\obj\Debug\net8.0\refint\Test.dll
+C:\Users\dimar\source\repos\Teaching\C# new\Class\Test\Test\obj\Debug\net8.0\Test.pdb
+C:\Users\dimar\source\repos\Teaching\C# new\Class\Test\Test\obj\Debug\net8.0\Test.genruntimeconfig.cache
+C:\Users\dimar\source\repos\Teaching\C# new\Class\Test\Test\obj\Debug\net8.0\ref\Test.dll
